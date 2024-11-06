@@ -1,4 +1,4 @@
-from app.fib import fibonacci
+from fib import fibonacci
 
 
 # Test cases for the fibonacci function
